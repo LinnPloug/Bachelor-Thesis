@@ -11,7 +11,7 @@ Each Jupyter Notebook used for data analysis follows this naming convention:
 
 ---
 
-## 🔬 Overview
+## Overview
 
 The project investigates the behavior of a Force Sensitive Resistor (FSR) under different electrical configurations.  
 It includes signal acquisition, statistical analysis, and evaluation of the sensor’s performance using different reference resistors and test rounds.
