@@ -1,7 +1,0 @@
-This folder contains raw data from all test rounds (TR) conducted for each reference resistor (RM).
-Each dataset corresponds to a full TR consisting of individual 60-second recordings per weight.
-The data is organized by:
-- TR (Test Round): Sequential measurement sessions
-- RM (Reference Resistor): Different resistor values (e.g., 2.2kΩ, 10kΩ, 47kΩ, 100kΩ)
-
-These files are used for signal analysis.
