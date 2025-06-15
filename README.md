@@ -1,4 +1,4 @@
-# Bachelor Thesis – Data Analysis
+# Bachelor Thesis: Data Analysis
 
 This repository contains data analysis scripts and measurement data used for the bachelor thesis:
 
